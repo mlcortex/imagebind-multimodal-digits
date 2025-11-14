@@ -1,6 +1,10 @@
 # imagebind-multimodal-digits
 ## A Multimodal Embedding Analysis with ImageBind using MNIST, AudioMNIST, and Synthetic Text
 
+
+<img width="1590" height="989" alt="Sem título-1" src="https://github.com/user-attachments/assets/61c705ae-3f7f-4ef6-9f72-faba2b13ac29" />
+
+
 This repository contains a controlled set of experiments using ImageBind (Meta AI) to investigate how multimodal embeddings behave when representing homogeneous semantic classes — in this case, digits from 0 to 9 — across three modalities:
 
 **Image, Text, and Audio.**
